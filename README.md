@@ -1,6 +1,10 @@
 # Analyzing_Students-_Academic_Performance
 
+```r
+setwd("Analyzing_Students-_Academic_Performance")
+load.project()
 
+```
 
 
 
